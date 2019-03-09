@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Form, Upload, Icon, message } from 'antd';
 import Manager from '@/pages/Manager';
-import './style.scss';
 
 const Dragger = Upload.Dragger;
 

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { Menu, Icon } from 'antd';
 import BasicLayout from '@/layouts/BasicLayout';
+import './style.scss';
 
 class Manager extends Component {
   state = {

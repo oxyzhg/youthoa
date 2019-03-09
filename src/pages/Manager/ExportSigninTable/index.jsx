@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Form, DatePicker, Button } from 'antd';
 import Manager from '@/pages/Manager';
-import './style.scss';
 
 const { RangePicker } = DatePicker;
 

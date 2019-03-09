@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Drawer, Table, Input } from 'antd';
-import './style.scss';
 
 const { Column } = Table;
 
